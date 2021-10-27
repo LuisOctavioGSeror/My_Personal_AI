@@ -5,7 +5,7 @@ import Speak
 from Speech_Recognition import voice_recognizer
 
 message = email.message.Message()
-password = "FoxAlive123"
+password = ""
 s = smtplib.SMTP('smtp.gmail.com: 587')
 
 
