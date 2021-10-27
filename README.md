@@ -1,8 +1,6 @@
-# &emsp;&emsp;&emsp;&nbsp;&emsp;&emsp;&emsp;&emsp;My_Personal_AI
-**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&emsp;&emsp;&emsp;&emsp;A NLP program made with google voice recognition API**
+# My_Personal_AI
+**A NLP program made with google voice recognition API**
 
-
-<img src=""> 
 
 ## What is?
 A simple siri like open source NLP application made with google voice recognition ment to be someone personal AI.
